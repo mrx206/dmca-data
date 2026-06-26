@@ -1,4 +1,4 @@
-# TOPLU - duzeltilenler cikarildi — 2026-06-26 16:42
+# TOPLU - duzeltilenler cikarildi — 2026-06-26 16:48
 # toplam: 43
 # Toplu listeden itiraz kabul + index geri gelen domainler cikarildi
 aksahil.vip
