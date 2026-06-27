@@ -1,12 +1,11 @@
-# TOPLU - duzeltilenler cikarildi — 2026-06-27 00:01
-# toplam: 46
+# TOPLU - duzeltilenler cikarildi — 2026-06-27 04:43
+# toplam: 41
 # Toplu listeden itiraz kabul + index geri gelen domainler cikarildi
 aksahil.vip
 aksamova.com
 alacalikaya.vip
 aslankoy.vip
 atmacakoy.com
-baklavatepe.vip
 bariskent.vip
 burnpisces.vip
 cesurtasi.com
@@ -18,17 +17,13 @@ dogaalan110.vip
 dogaalan12.vip
 dogaalan58.vip
 dogasehir.vip
-filkoy.com
 galaksibonus.vip
 genistepe.vip
 genisvadi.vip
 geyikova.com
-gigantamaxlapras.vip
 gozlemeova.vip
 griyol.vip
-gunesdag.com
 hayalkoy.vip
-infernoifrit.vip
 kaplangol.com
 keklikkoy.com
 kirmizidere.vip
