@@ -1,5 +1,5 @@
-# TOPLU - duzeltilenler cikarildi — 2026-06-27 07:10
-# toplam: 52
+# TOPLU - duzeltilenler cikarildi — 2026-06-27 10:57
+# toplam: 53
 # Toplu listeden itiraz kabul + index geri gelen domainler cikarildi
 akdere.vip
 aksahil.vip
@@ -28,6 +28,7 @@ dogaalan110.vip
 dogaalan12.vip
 dogaalan58.vip
 dogasehir.vip
+filkoy.com
 galaksibonus.vip
 genistepe.vip
 genisvadi.vip
