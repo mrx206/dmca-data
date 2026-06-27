@@ -1,5 +1,5 @@
-# TOPLU liste (hepsi) — 2026-06-27 05:59
-# toplam: 48
+# TOPLU liste (hepsi) — 2026-06-27 06:05
+# toplam: 49
 akdere.vip
 aksahil.vip
 aksamova.com
@@ -9,6 +9,7 @@ alacalikaya.vip
 aslankoy.vip
 atmacakoy.com
 ayikoy.com
+ayitepe.vip
 bariskent.vip
 bulutdag.com
 burnpisces.vip
