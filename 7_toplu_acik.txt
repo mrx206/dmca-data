@@ -1,5 +1,5 @@
-# TOPLU - duzeltilenler cikarildi — 2026-06-27 10:57
-# toplam: 53
+# TOPLU - duzeltilenler cikarildi — 2026-06-27 11:55
+# toplam: 54
 # Toplu listeden itiraz kabul + index geri gelen domainler cikarildi
 akdere.vip
 aksahil.vip
@@ -33,6 +33,7 @@ galaksibonus.vip
 genistepe.vip
 genisvadi.vip
 geyikova.com
+gigantamaxlapras.vip
 gozlemeova.vip
 griyol.vip
 hayalkoy.vip
