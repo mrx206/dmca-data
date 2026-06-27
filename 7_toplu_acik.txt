@@ -1,11 +1,12 @@
-# TOPLU - duzeltilenler cikarildi — 2026-06-26 16:52
-# toplam: 43
+# TOPLU - duzeltilenler cikarildi — 2026-06-26 18:06
+# toplam: 44
 # Toplu listeden itiraz kabul + index geri gelen domainler cikarildi
 aksahil.vip
 aksamova.com
 alacalikaya.vip
 aslankoy.vip
 atmacakoy.com
+baklavatepe.vip
 bariskent.vip
 burnpisces.vip
 cesurtasi.com
