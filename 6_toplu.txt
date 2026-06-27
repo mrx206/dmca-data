@@ -1,5 +1,5 @@
-# TOPLU liste (hepsi) — 2026-06-27 10:57
-# toplam: 56
+# TOPLU liste (hepsi) — 2026-06-27 11:55
+# toplam: 57
 akdere.vip
 aksahil.vip
 aksamova.com
@@ -33,6 +33,7 @@ galaksibonus.vip
 genistepe.vip
 genisvadi.vip
 geyikova.com
+gigantamaxlapras.vip
 gozlemeova.vip
 griyol.vip
 gunesdag.com
