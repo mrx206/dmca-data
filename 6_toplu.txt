@@ -1,5 +1,5 @@
-# TOPLU liste (hepsi) — 2026-06-27 14:04
-# toplam: 59
+# TOPLU liste (hepsi) — 2026-06-27 15:00
+# toplam: 60
 akdere.vip
 aksahil.vip
 aksamova.com
@@ -47,6 +47,7 @@ kirmizidere.vip
 kirmiziova.com
 kirmiziyaka.vip
 kisadere.vip
+kisapinar.vip
 lacivertyol.vip
 merakdag.com
 mororman.vip
