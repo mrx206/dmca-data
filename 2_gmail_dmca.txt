@@ -1,5 +1,5 @@
-# Gmail DMCA bildirimleri — 2026-06-27 06:51
-# toplam: 15
+# Gmail DMCA bildirimleri — 2026-06-27 06:57
+# toplam: 16
 akdere.vip
 aksahil.vip
 aksamova.com
@@ -13,5 +13,6 @@ ayitepe.vip
 bahcegunu.com
 bariskent.vip
 bozkirkoy.com
+buluttepe.com
 dogaalan58.vip
 kirmiziyaka.vip
