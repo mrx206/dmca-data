@@ -1,5 +1,5 @@
-# TOPLU - duzeltilenler cikarildi — 2026-06-27 15:26
-# toplam: 59
+# TOPLU - duzeltilenler cikarildi — 2026-06-27 23:52
+# toplam: 55
 # Toplu listeden itiraz kabul + index geri gelen domainler cikarildi
 akdere.vip
 aksahil.vip
@@ -49,14 +49,10 @@ kisavadi.vip
 kumsalgol.com
 lacivertdag.vip
 lacivertyol.vip
-merakdag.com
 mororman.vip
 parlakyaka.vip
-saridere.vip
 savascasino.vip
 saygitepe.com
 serbestyaka.vip
-toprakdag.com
 turuncukaya.com
 uzunkoy.vip
-yumusakova.vip
